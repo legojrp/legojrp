@@ -1,2 +1,1 @@
-This is legojrp.
-- Organization -> [@Continental-Key-Studios](https://github.com/continental-key-studios)
+Hey i do stuff.  Read my code. I dare you... 
