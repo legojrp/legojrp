@@ -1,2 +1,14 @@
-Hey i do stuff.  Read my code. I dare you... 
-My playground website where i host some random projects at: [PatchIndustries.com](https://patchindustries.com)
+I am a high schooler who has programmed for about 4 years... 
+
+Many projects, some finished, and much learned... 
+
+Skills
+
+- JS
+- ReactJs
+- Python
+- Java
+- GDScript
+- Games  [Orbit Dodge](https://legojrp.github.io/Orbit-Dodge), [Turtle Game] (https://patchindustries.com/turtle/)
+- Taking over HSE Apps
+- co-VP of my local Computer Science Honor Society
