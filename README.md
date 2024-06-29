@@ -11,7 +11,7 @@ Skills
 - Python
 - Java
 - GDScript
-- Games  [Orbit Dodge](https://legojrp.github.io/Orbit-Dodge), [Turtle Game] (https://patchindustries.com/turtle/) 
+- Games  [Orbit Dodge](https://legojrp.github.io/Orbit-Dodge), [Turtle Game](https://patchindustries.com/turtle/) 
 - Taking over HSE Apps
 - co-VP of my local Computer Science Honor Society
 - 
