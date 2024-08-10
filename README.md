@@ -6,7 +6,7 @@ My playaround website - (https://patchindustries.com)
 
 Running HSE Apps, running and maintaining Full Stack school websites like, [HSE Schedule](https://github.com/HSE-Apps-Team/schedule-client), [HSE Clubs](https://github.com/HSE-Apps-Team/club-client), and many more!
 
-Skills
+Skills (no particular order with high variability in ability)
 
 - JS
 - ReactJs
