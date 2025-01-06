@@ -16,6 +16,7 @@ Skills (no particular order with high variability in ability)
 - Java
 - GDScript
 - PHP
+- I like the Google Gemini APIs (cause they're free lol) especially the AQA model. I have a [client wrapper](https://github.com/legojrp/Gemini-AQA-Client-Wrapper) in python that makes things a load easier 
 - I work with a lot of linux.
 - I have MacOS, Debian, and Windows - Debian is the best distro by far
 - Games  [Orbit Dodge](https://legojrp.github.io/Orbit-Dodge), [Turtle Game](https://patchindustries.com/turtle/) 
